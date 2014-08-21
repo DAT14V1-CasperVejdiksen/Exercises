@@ -1,0 +1,11 @@
+Caps-MBPr:~ vejdiksen$ cd Documents/
+Caps-MBPr:Documents vejdiksen$ cd xyz
+Caps-MBPr:xyz vejdiksen$ ls
+abc.txt	def.txt
+Caps-MBPr:xyz vejdiksen$ rm def.txt
+Caps-MBPr:xyz vejdiksen$ ls
+abc.txt
+Caps-MBPr:xyz vejdiksen$ mv abc.txt xyz.txt
+Caps-MBPr:xyz vejdiksen$ ls
+xyz.txt
+Caps-MBPr:xyz vejdiksen$ c

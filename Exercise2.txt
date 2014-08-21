@@ -1,0 +1,25 @@
+Last login: Tue Aug 19 11:24:11 on ttys000
+Caps-MBPr:~ vejdiksen$ cd Documents/
+Caps-MBPr:Documents vejdiksen$ mkdir xyz
+Caps-MBPr:Documents vejdiksen$ ls
+Ansøgning
+Budget.numbers
+Bøger og manualer
+Eclipseworkspace
+Exercise1
+Fitness
+HF
+ITU
+KEA
+Kvitteringer
+Library
+Paleo
+Skærmbillede 2012-12-04 kl. 22.06.47.png
+TDC mail.rtf
+workspace
+xyz
+Ønsker
+Caps-MBPr:Documents vejdiksen$ cd xyz
+Caps-MBPr:xyz vejdiksen$ pwd
+/Users/vejdiksen/Documents/xyz
+Caps-MBPr:xyz vejdiksen$ 

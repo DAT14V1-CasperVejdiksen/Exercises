@@ -1,0 +1,29 @@
+Caps-MBPr:~ vejdiksen$ cd Documents/
+Caps-MBPr:Documents vejdiksen$ pwd
+/Users/vejdiksen/Documents
+Caps-MBPr:Documents vejdiksen$ 
+
+
+
+Last login: Wed Aug 20 19:14:25 on ttys000
+Caps-MBPr:xyz vejdiksen$ open -a textEdit
+Caps-MBPr:xyz vejdiksen$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

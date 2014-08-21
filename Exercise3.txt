@@ -1,0 +1,24 @@
+Caps-MBPr:Documents vejdiksen$ cd xyz
+Caps-MBPr:xyz vejdiksen$ touch abc.txt
+Caps-MBPr:xyz vejdiksen$ touch def.txt
+Caps-MBPr:xyz vejdiksen$ ls
+abc.txt	def.txt
+Caps-MBPr:xyz vejdiksen$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
